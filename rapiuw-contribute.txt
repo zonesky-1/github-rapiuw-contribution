@@ -225,3 +225,4 @@ rapiuw
 [2026-03-11 14:15:14 +0700] commit #125: feat: append daily benchmark metrics and test summaries
 [2026-03-11 22:43:51 +0700] commit #126: docs: update daily learning log and progress notes
 [2026-03-12 10:56:24 +0700] commit #127: docs: update daily learning log and progress notes
+[2026-03-12 15:40:31 +0700] commit #128: docs: record architecture reflections and research findings
