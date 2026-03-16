@@ -233,3 +233,4 @@ rapiuw
 [2026-03-13 10:29:29 +0700] commit #133: chore: periodic maintenance check and routine update
 [2026-03-13 22:08:42 +0700] commit #134: docs: refine implementation notes and workflow diagrams
 [2026-03-13 23:51:33 +0700] commit #135: docs: add notes on API optimization and routing tests
+[2026-03-16 15:58:57 +0700] commit #136: refactor: clean up obsolete references in documentation
