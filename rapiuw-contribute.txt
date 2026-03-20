@@ -242,3 +242,4 @@ rapiuw
 [2026-03-17 21:17:18 +0700] commit #142: docs: add notes on API optimization and routing tests
 [2026-03-19 15:44:09 +0700] commit #143: chore: update dependency tracking and tool inventory
 [2026-03-20 16:26:13 +0700] commit #144: feat: record tool research findings and test cases
+[2026-03-20 17:03:53 +0700] commit #145: docs: update study roadmap checklist and milestone goals
