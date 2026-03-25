@@ -247,3 +247,4 @@ rapiuw
 [2026-03-23 16:22:54 +0700] commit #147: chore: periodic maintenance check and routine update
 [2026-03-23 18:19:57 +0700] commit #148: chore: periodic maintenance check and routine update
 [2026-03-23 21:48:53 +0700] commit #149: docs: refine implementation notes and workflow diagrams
+[2026-03-25 09:24:42 +0700] commit #150: docs: update study roadmap checklist and milestone goals
