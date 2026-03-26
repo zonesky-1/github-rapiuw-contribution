@@ -253,3 +253,4 @@ rapiuw
 [2026-03-26 15:36:27 +0700] commit #153: refactor: optimize routine notes in activity log
 [2026-03-26 17:42:08 +0700] commit #154: perf: streamline logging utility and tracking entries
 [2026-03-26 18:01:55 +0700] commit #155: docs: update study roadmap checklist and milestone goals
+[2026-03-26 23:05:29 +0700] commit #156: docs: add notes on API optimization and routing tests
