@@ -268,3 +268,4 @@ rapiuw
 [2026-04-03 20:15:49 +0700] commit #168: docs: record architecture reflections and research findings
 [2026-04-06 10:32:00 +0700] commit #169: refactor: clean up obsolete references in documentation
 [2026-04-06 14:41:54 +0700] commit #170: docs: record architecture reflections and research findings
+[2026-04-06 19:21:26 +0700] commit #171: feat: record tool research findings and test cases
