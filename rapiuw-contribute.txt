@@ -274,3 +274,4 @@ rapiuw
 [2026-04-08 15:41:58 +0700] commit #174: feat: record tool research findings and test cases
 [2026-04-08 20:17:34 +0700] commit #175: docs: track system performance data and telemetry logs
 [2026-04-09 10:56:29 +0700] commit #176: docs: update study roadmap checklist and milestone goals
+[2026-04-09 13:28:36 +0700] commit #177: docs: add notes on API optimization and routing tests
