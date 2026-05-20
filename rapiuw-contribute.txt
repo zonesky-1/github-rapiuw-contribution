@@ -345,3 +345,4 @@ rapiuw
 [2026-05-18 14:21:48 +0700] commit #245: docs: update study roadmap checklist and milestone goals
 [2026-05-18 16:35:34 +0700] commit #246: docs: daily recap and module review notes
 [2026-05-20 12:26:58 +0700] commit #247: feat: append daily benchmark metrics and test summaries
+[2026-05-20 12:02:51 +0700] commit #248: refactor: clean up obsolete references in documentation
