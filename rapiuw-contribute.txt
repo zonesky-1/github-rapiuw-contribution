@@ -363,3 +363,4 @@ rapiuw
 [2026-05-26 09:50:22 +0700] commit #263: feat: append daily benchmark metrics and test summaries
 [2026-05-26 23:03:23 +0700] commit #264: docs: summarize sprint progress and task checkpoints
 [2026-05-27 11:11:55 +0700] commit #265: docs: summarize sprint progress and task checkpoints
+[2026-05-27 11:05:24 +0700] commit #266: refactor: clean up obsolete references in documentation
