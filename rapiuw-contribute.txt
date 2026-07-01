@@ -433,3 +433,4 @@ rapiuw
 [2026-06-29 17:26:42 +0700] commit #333: style: format markdown entries and activity lists
 [2026-06-30 17:13:42 +0700] commit #334: docs: summarize sprint progress and task checkpoints
 [2026-06-30 18:09:30 +0700] commit #335: docs: record architecture reflections and research findings
+[2026-07-01 10:36:27 +0700] commit #336: docs: refine implementation notes and workflow diagrams
