@@ -484,3 +484,4 @@ rapiuw
 [2026-07-20 17:02:28 +0700] commit #384: fix: typo and formatting in daily documentation notes
 [2026-07-20 19:15:33 +0700] commit #385: chore: automated progress checkpoint and state sync
 [2026-07-20 20:45:33 +0700] commit #386: chore: automated progress checkpoint and state sync
+[2026-07-22 09:40:21 +0700] commit #387: docs: update study roadmap checklist and milestone goals
