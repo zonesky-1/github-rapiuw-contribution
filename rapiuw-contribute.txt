@@ -487,3 +487,4 @@ rapiuw
 [2026-07-22 09:40:21 +0700] commit #387: docs: update study roadmap checklist and milestone goals
 [2026-07-22 18:41:06 +0700] commit #388: style: format markdown entries and activity lists
 [2026-07-22 19:21:35 +0700] commit #389: perf: streamline logging utility and tracking entries
+[2026-07-22 21:04:43 +0700] commit #390: docs: refine implementation notes and workflow diagrams
