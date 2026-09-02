@@ -587,3 +587,4 @@ rapiuw
 [2026-09-01 20:33:18 +0700] commit #487: perf: streamline logging utility and tracking entries
 [2026-09-02 11:34:37 +0700] commit #488: docs: refine implementation notes and workflow diagrams
 [2026-09-02 13:05:37 +0700] commit #489: docs: refine implementation notes and workflow diagrams
+[2026-09-02 13:32:09 +0700] commit #490: docs: add notes on API optimization and routing tests
