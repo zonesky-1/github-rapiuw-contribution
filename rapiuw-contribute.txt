@@ -605,3 +605,4 @@ rapiuw
 [2026-09-11 22:20:32 +0700] commit #505: docs: update daily learning log and progress notes
 [2026-09-11 23:12:29 +0700] commit #506: chore: sync activity timestamps and daily check-in
 [2026-09-11 23:48:31 +0700] commit #507: docs: update study roadmap checklist and milestone goals
+[2026-09-14 09:31:56 +0700] commit #508: refactor: clean up obsolete references in documentation
