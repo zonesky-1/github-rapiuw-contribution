@@ -617,3 +617,4 @@ rapiuw
 [2026-09-17 11:21:38 +0700] commit #517: refactor: optimize routine notes in activity log
 [2026-09-17 15:35:32 +0700] commit #518: feat: append daily benchmark metrics and test summaries
 [2026-09-17 18:23:25 +0700] commit #519: docs: add notes on API optimization and routing tests
+[2026-09-17 19:48:32 +0700] commit #520: refactor: clean up obsolete references in documentation
