@@ -648,3 +648,4 @@ rapiuw
 [2026-10-02 23:47:12 +0700] commit #548: chore: periodic maintenance check and routine update
 [2026-10-04 12:15:42 +0700] commit #549: docs: log security testing observations and audit steps
 [2026-10-04 18:03:57 +0700] commit #550: docs: summarize sprint progress and task checkpoints
+[2026-10-05 15:21:45 +0700] commit #551: refactor: clean up obsolete references in documentation
