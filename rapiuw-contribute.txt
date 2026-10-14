@@ -667,3 +667,4 @@ rapiuw
 [2026-10-13 20:11:50 +0700] commit #567: fix: typo and formatting in daily documentation notes
 [2026-10-14 15:32:25 +0700] commit #568: fix: typo and formatting in daily documentation notes
 [2026-10-14 15:20:42 +0700] commit #569: feat: append daily benchmark metrics and test summaries
+[2026-10-14 22:05:06 +0700] commit #570: refactor: clean up obsolete references in documentation
